@@ -1,0 +1,13 @@
+hardcodedNameSpace: null
+showVerionsTab: false
+showEnvVarsTab: false
+allowAutoApplyLimits: false
+name: erxes
+title: erxes
+logo: null
+tags:
+  - dev
+description: erxes
+oneDeploymentPerCluster: false
+notAllowRemoveNamespace: true
+autoAddEnvVarsToDeployments: false
